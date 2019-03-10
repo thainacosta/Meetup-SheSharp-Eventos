@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meetup.SheSharp.Eventos.WebAPI", "src\Meetup.SheSharp.Eventos.WebAPI\Meetup.SheSharp.Eventos.WebAPI.csproj", "{33B6F999-4644-4692-B2C7-F23541978258}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Meetup.SheSharp.Eventos.Models", "src\Meetup.SheSharp.Eventos.Models\Meetup.SheSharp.Eventos.Models.csproj", "{11877B01-E339-4628-95F1-021975186A9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33B6F999-4644-4692-B2C7-F23541978258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33B6F999-4644-4692-B2C7-F23541978258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33B6F999-4644-4692-B2C7-F23541978258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33B6F999-4644-4692-B2C7-F23541978258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11877B01-E339-4628-95F1-021975186A9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11877B01-E339-4628-95F1-021975186A9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11877B01-E339-4628-95F1-021975186A9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11877B01-E339-4628-95F1-021975186A9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D22C6FB0-D264-472C-ABFC-E34BBFD0EA24}
+	EndGlobalSection
+EndGlobal
